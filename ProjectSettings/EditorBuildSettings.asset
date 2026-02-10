@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/scene/Sand.unity
+    guid: d740450fa9f2b8d419731a422c1987d2
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b8b3d53cd91457b42bccd55d9fc0a927,
       type: 2}
