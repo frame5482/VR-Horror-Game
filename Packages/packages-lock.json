@@ -104,8 +104,6 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
-<<<<<<< HEAD
-=======
     "com.unity.render-pipelines.high-definition": {
       "version": "14.0.12",
       "depth": 0,
@@ -131,7 +129,6 @@
         "com.unity.render-pipelines.core": "14.0.12"
       }
     },
->>>>>>> bc19f13dab17b1955fcf3c7de7bf1953580069d2
     "com.unity.render-pipelines.universal": {
       "version": "14.0.12",
       "depth": 0,
