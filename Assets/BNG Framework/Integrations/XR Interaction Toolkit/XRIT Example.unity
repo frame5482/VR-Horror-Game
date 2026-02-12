@@ -3372,7 +3372,11 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
+<<<<<<< HEAD
+      m_Id: b63b6ba0-17d9-4773-aa49-13cce0a670de
+=======
       m_Id: 6f563caa-7074-46ce-8d1e-bc89043fc705
+>>>>>>> bc19f13dab17b1955fcf3c7de7bf1953580069d2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3477,7 +3481,11 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
+<<<<<<< HEAD
+      m_Id: c71bc9b2-c469-40b6-b28f-e6952fb9be9a
+=======
       m_Id: d1ff6de4-c0fe-49c3-80c0-446b916df03a
+>>>>>>> bc19f13dab17b1955fcf3c7de7bf1953580069d2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3537,7 +3545,11 @@ MonoBehaviour:
       m_Name: Scale Toggle
       m_Type: 1
       m_ExpectedControlType: 
+<<<<<<< HEAD
+      m_Id: 09b62ccc-fa36-46b4-b7ea-ec727630aee6
+=======
       m_Id: 10208730-2c51-4bf0-b717-2a4997d9f1cb
+>>>>>>> bc19f13dab17b1955fcf3c7de7bf1953580069d2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3549,7 +3561,11 @@ MonoBehaviour:
       m_Name: Scale Delta
       m_Type: 0
       m_ExpectedControlType: Vector2
+<<<<<<< HEAD
+      m_Id: f29a0759-1dc2-4c93-8ac4-fb391408b8e1
+=======
       m_Id: b764b62e-3e08-4944-957c-e0c2f16a1fa1
+>>>>>>> bc19f13dab17b1955fcf3c7de7bf1953580069d2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []

@@ -102,6 +102,10 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
+<<<<<<< HEAD
+    - _DecalAngleFadeSupported: 1
+=======
+>>>>>>> bc19f13dab17b1955fcf3c7de7bf1953580069d2
     - _DecalMeshBiasType: 0
     - _DecalMeshDepthBias: 0
     - _DecalMeshViewBias: 0
