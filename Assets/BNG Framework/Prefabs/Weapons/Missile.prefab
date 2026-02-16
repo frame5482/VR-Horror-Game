@@ -5044,8 +5044,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c079485b3cec8a14c85546b51a8b27b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HitFXPrefab: {fileID: 4892610510716178938, guid: 7812c01b0c492d94caceaf9c1586a1fc,
-    type: 3}
+  HitFXPrefab: {fileID: 4892610510716178938, guid: 7812c01b0c492d94caceaf9c1586a1fc, type: 3}
   Damage: 5
   AddRigidForce: 0
   ValidLayers:
